@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Built-By: Anes
+Build-Timestamp: 2020-12-10T07:04:36.669+0100
+Created-By: Gradle 6.6.1
+Build-Jdk: 11.0.9 (Oracle Corporation 11.0.9+7-LTS)
+Build-OS: Windows 10 amd64 10.0
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: client.MainClient
+Spring-Boot-Version: 2.3.3.RELEASE
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Spring-Boot-Classpath-Index: BOOT-INF/classpath.idx
+
